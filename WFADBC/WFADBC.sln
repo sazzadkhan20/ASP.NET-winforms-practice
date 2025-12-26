@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFADBC", "WFADBC\WFADBC.csproj", "{5323B859-A503-4919-A8A8-72338A23B0CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5323B859-A503-4919-A8A8-72338A23B0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5323B859-A503-4919-A8A8-72338A23B0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5323B859-A503-4919-A8A8-72338A23B0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5323B859-A503-4919-A8A8-72338A23B0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5D0E8FA-F0EF-4E0A-94DC-25B65D7B6B76}
+	EndGlobalSection
+EndGlobal

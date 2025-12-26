@@ -1,0 +1,10 @@
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Test GUI\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Test GUI\TestProject\bin\Debug\TestProject.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Test GUI\TestProject\bin\Debug\TestProject.pdb
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Test GUI\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Test GUI\TestProject\obj\Debug\TestProject.Form1.resources
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Test GUI\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Test GUI\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Test GUI\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Test GUI\TestProject\obj\Debug\TestProject.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\Test GUI\TestProject\obj\Debug\TestProject.pdb

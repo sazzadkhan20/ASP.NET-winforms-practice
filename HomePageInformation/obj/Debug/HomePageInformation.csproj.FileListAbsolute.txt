@@ -1,0 +1,9 @@
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\HomePageInformation\obj\Debug\HomePageInformation.Properties.Resources.resources
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\HomePageInformation\obj\Debug\HomePageInformation.csproj.GenerateResource.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\HomePageInformation\obj\Debug\HomePageInformation.csproj.CoreCompileInputs.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\HomePageInformation\obj\Debug\HomePageInformation.HomePage.resources
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\HomePageInformation\bin\Debug\HomePageInformation.exe.config
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\HomePageInformation\bin\Debug\HomePageInformation.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\HomePageInformation\bin\Debug\HomePageInformation.pdb
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\HomePageInformation\obj\Debug\HomePageInformation.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\HomePageInformation\obj\Debug\HomePageInformation.pdb

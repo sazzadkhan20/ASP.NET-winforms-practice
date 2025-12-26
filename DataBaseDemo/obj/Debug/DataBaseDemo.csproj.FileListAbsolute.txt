@@ -1,0 +1,10 @@
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\DataBaseDemo\bin\Debug\DataBaseDemo.exe.config
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\DataBaseDemo\bin\Debug\DataBaseDemo.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\DataBaseDemo\bin\Debug\DataBaseDemo.pdb
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\DataBaseDemo\obj\Debug\DataBaseDemo.csproj.AssemblyReference.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\DataBaseDemo\obj\Debug\DataBaseDemo.Form1.resources
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\DataBaseDemo\obj\Debug\DataBaseDemo.Properties.Resources.resources
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\DataBaseDemo\obj\Debug\DataBaseDemo.csproj.GenerateResource.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\DataBaseDemo\obj\Debug\DataBaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\DataBaseDemo\obj\Debug\DataBaseDemo.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\DataBaseDemo\obj\Debug\DataBaseDemo.pdb

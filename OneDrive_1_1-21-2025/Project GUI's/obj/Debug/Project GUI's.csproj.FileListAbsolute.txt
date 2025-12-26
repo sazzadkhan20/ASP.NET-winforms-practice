@@ -1,0 +1,10 @@
+C:\Users\saifu\OneDrive - American International University-Bangladesh\Desktop\AIUB All Docs\Study Meterials\7th Semester\OOP 2\Project GUI's\Project GUI's\bin\Debug\Project GUI's.exe.config
+C:\Users\saifu\OneDrive - American International University-Bangladesh\Desktop\AIUB All Docs\Study Meterials\7th Semester\OOP 2\Project GUI's\Project GUI's\bin\Debug\Project GUI's.exe
+C:\Users\saifu\OneDrive - American International University-Bangladesh\Desktop\AIUB All Docs\Study Meterials\7th Semester\OOP 2\Project GUI's\Project GUI's\bin\Debug\Project GUI's.pdb
+C:\Users\saifu\OneDrive - American International University-Bangladesh\Desktop\AIUB All Docs\Study Meterials\7th Semester\OOP 2\Project GUI's\Project GUI's\obj\Debug\Project GUI's.csproj.AssemblyReference.cache
+C:\Users\saifu\OneDrive - American International University-Bangladesh\Desktop\AIUB All Docs\Study Meterials\7th Semester\OOP 2\Project GUI's\Project GUI's\obj\Debug\Project_GUI_s.Form1.resources
+C:\Users\saifu\OneDrive - American International University-Bangladesh\Desktop\AIUB All Docs\Study Meterials\7th Semester\OOP 2\Project GUI's\Project GUI's\obj\Debug\Project_GUI_s.Properties.Resources.resources
+C:\Users\saifu\OneDrive - American International University-Bangladesh\Desktop\AIUB All Docs\Study Meterials\7th Semester\OOP 2\Project GUI's\Project GUI's\obj\Debug\Project GUI's.csproj.GenerateResource.cache
+C:\Users\saifu\OneDrive - American International University-Bangladesh\Desktop\AIUB All Docs\Study Meterials\7th Semester\OOP 2\Project GUI's\Project GUI's\obj\Debug\Project GUI's.csproj.CoreCompileInputs.cache
+C:\Users\saifu\OneDrive - American International University-Bangladesh\Desktop\AIUB All Docs\Study Meterials\7th Semester\OOP 2\Project GUI's\Project GUI's\obj\Debug\Project GUI's.exe
+C:\Users\saifu\OneDrive - American International University-Bangladesh\Desktop\AIUB All Docs\Study Meterials\7th Semester\OOP 2\Project GUI's\Project GUI's\obj\Debug\Project GUI's.pdb

@@ -1,0 +1,122 @@
+using System;
+using System.Data;
+using System.Data.SqlClient;
+using System.Windows.Forms;
+
+namespace TestForm
+{
+    public partial class Form2 : Form
+    {
+        SqlConnection con;
+        public void dbcon()
+        {
+            con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\SOOQ ELASER\Documents\TEST.mdf;Integrated Security=True;Connect Timeout=30");
+            con.Open();
+        }
+        public Form2()
+        {
+            InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+            dbcon();
+            SqlCommand sq1 = new SqlCommand("select * from USSER", con);
+            DataTable dt = new DataTable();
+
+            SqlDataReader sdr = sq1.ExecuteReader();
+            dt.Load(sdr);
+
+            dataGridView1.DataSource = dt;
+            con.Close();
+
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string genderoption = "";
+            if (radioButton1.Checked)
+            {
+                genderoption = "Male";
+
+            }
+            else if (radioButton2.Checked)
+            {
+                genderoption = "Female";
+            }
+            dbcon();
+            SqlCommand sq2 = new SqlCommand("insert into USSER(USERNAME,PASSWORD,GENDER) values(@NAME,@PASS,@Gen)", con);
+            sq2.Parameters.AddWithValue("@NAME", textBox1.Text);
+            sq2.Parameters.AddWithValue("@PASS", textBox2.Text);
+            sq2.Parameters.AddWithValue("@Gen", genderoption);
+
+            MessageBox.Show("Data added");
+
+            sq2.ExecuteNonQuery();
+            con.Close();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+            textBox2.Text = "";
+            radioButton1.Checked = false;
+            radioButton2.Checked = false;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+            string genderoption = "";
+            if (radioButton1.Checked)
+            {
+                genderoption = "Male";
+
+            }
+            else if (radioButton2.Checked)
+            {
+                genderoption = "Female";
+            }
+            dbcon();
+            SqlCommand sq3 = new SqlCommand("update USSER set USERNAME=@USERNAME , PASSWORD=@PASSWORD, GENDER=@GENDER where Id=@Id", con);
+
+            sq3.Parameters.AddWithValue("@Id", int.Parse(textBox3.Text));
+            sq3.Parameters.AddWithValue("@USERNAME", textBox1.Text);
+            sq3.Parameters.AddWithValue("@PASSWORD", textBox2.Text);
+            sq3.Parameters.AddWithValue("@GENDER", genderoption);
+
+            MessageBox.Show("Value updated");
+
+            sq3.ExecuteNonQuery();
+            con.Close();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            dbcon();
+            SqlCommand sq1 = new SqlCommand("select * from USSER", con);
+            SqlDataAdapter ds = new SqlDataAdapter(sq1);
+            DataTable dt = new DataTable();
+            ds.Fill(dt);
+            dataGridView1.DataSource = dt;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            dbcon();
+            SqlCommand sq3 = new SqlCommand("delete from USSER where id=@Id", con);
+            sq3.Parameters.AddWithValue("@Id", int.Parse(textBox1.Text));
+
+            sq3.ExecuteNonQuery();
+            con.Close();
+
+            MessageBox.Show("User DELETED");
+        }
+    }
+}

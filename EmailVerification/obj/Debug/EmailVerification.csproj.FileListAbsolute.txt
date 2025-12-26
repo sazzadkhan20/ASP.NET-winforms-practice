@@ -1,0 +1,7 @@
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\EmailVerification\obj\Debug\EmailVerification.csproj.AssemblyReference.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\EmailVerification\obj\Debug\EmailVerification.csproj.CoreCompileInputs.cache
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\EmailVerification\bin\Debug\EmailVerification.exe.config
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\EmailVerification\bin\Debug\EmailVerification.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\EmailVerification\bin\Debug\EmailVerification.pdb
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\EmailVerification\obj\Debug\EmailVerification.exe
+C:\Users\zohur\OneDrive - American International University-Bangladesh\Desktop\All about AIUB\C#\C# GUI Design Practice\EmailVerification\obj\Debug\EmailVerification.pdb
